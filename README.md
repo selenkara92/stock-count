@@ -13,6 +13,7 @@ The stock count of Selin's warehouse: every product, with its number.
 3. Commit, push, and open a pull request.
 4. Somebody else reviews it before it is merged.
 
+The same steps as a diagram: [docs/workflow.md](docs/workflow.md).
 
 ## Read the history
 Every line of the count has a commit behind it:
