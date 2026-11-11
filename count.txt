@@ -3,3 +3,10 @@ Pencil 450
 Stapler 14
 Tape 58
 Envelopes 500
+Labels 300
+Glue 25
+Envelopes 500
+Rubber bands 900
+Markers 75
+Erasers 60
+
