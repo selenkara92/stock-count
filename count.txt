@@ -1,0 +1,5 @@
+Notebook 118
+Pencil 450
+Stapler 14
+Tape 58
+Envelopes 500
